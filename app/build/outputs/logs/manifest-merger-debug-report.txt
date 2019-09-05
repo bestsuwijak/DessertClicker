@@ -8,6 +8,7 @@ MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\MSI GS72\
 MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\3c8dd209046d9a7aba046f337b0352ed\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\80a3686b33f4837c1ee9252c131f2da8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\0e9c64fba3201acffe31a35bfc4549b9\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\25a71872100927ab8acd31538fae36af\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\eb38e622e76dd3d4c631f2ccacd45ea3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\ad993d1cf23e580fbd31daaca389526a\AndroidManifest.xml:17:1-22:12
@@ -55,6 +56,8 @@ application
 ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-34:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\0e9c64fba3201acffe31a35bfc4549b9\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\0e9c64fba3201acffe31a35bfc4549b9\AndroidManifest.xml:7:5-20
 MERGED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\dd484add8d6eeed72cd8a2e8adcdba32\AndroidManifest.xml:22:5-23:19
@@ -99,6 +102,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\M
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\80a3686b33f4837c1ee9252c131f2da8\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\80a3686b33f4837c1ee9252c131f2da8\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\0e9c64fba3201acffe31a35bfc4549b9\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\0e9c64fba3201acffe31a35bfc4549b9\AndroidManifest.xml:5:5-43
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\25a71872100927ab8acd31538fae36af\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\25a71872100927ab8acd31538fae36af\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\eb38e622e76dd3d4c631f2ccacd45ea3\AndroidManifest.xml:20:5-44
