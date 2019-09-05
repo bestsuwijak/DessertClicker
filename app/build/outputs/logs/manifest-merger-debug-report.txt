@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\b9bd0a904503f2acb4c00518c4a68887\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\3c8dd209046d9a7aba046f337b0352ed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\80a3686b33f4837c1ee9252c131f2da8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\25a71872100927ab8acd31538fae36af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\eb38e622e76dd3d4c631f2ccacd45ea3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\ad993d1cf23e580fbd31daaca389526a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\98d60fe06fbf0c91ee2998eeb45779be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\97a8444c796e1313c9b64562ffd938b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\29e95cb9c3d250f2fb3a352ab46b4188\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\ee2994349ae54b153701a34ccf579890\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\e795c11517cef51bbd80c1141ee8876a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\9a3a08d7453dfbbee13be55f72fb9cc4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\13c8844663dc864f696c559ad3cfb052\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\4de095548994c0bbfc0040d5bb2c71ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\440549c68e3baba06ca2f95e6d1cbc17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\008039cc2fabd0523896be5e60381e58\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\179812c8b4fe3d41c896a7be019f59e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\bdac6a6c385b21ddb08a93ace979016f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\dd484add8d6eeed72cd8a2e8adcdba32\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\a97c811f4895becce9cb2fd05bae1ec9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\43ba8b1714a919d653e02e2a9f64176a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\b8f136fb270e9213148feba028d41155\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\642d5980ce99fda0c17cd0818c8ca093\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\3aae4dbb35ec8d7c0da189f4e33ac52d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\9483a0d85bc521a63be6c42355cebb9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\8b3d7932a1150aa860df558efa7904ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\1063890784e9a312b09e4263e59b3957\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\09d5602ef85f131fbb01a0cf327dfcc3\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\dd484add8d6eeed72cd8a2e8adcdba32\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\dd484add8d6eeed72cd8a2e8adcdba32\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:24:9-61
+	android:icon
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:22:9-50
+	android:allowBackup
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\b9bd0a904503f2acb4c00518c4a68887\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\b9bd0a904503f2acb4c00518c4a68887\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\3c8dd209046d9a7aba046f337b0352ed\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\3c8dd209046d9a7aba046f337b0352ed\AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\f8c066f428ff2986a7c75b1cf4f7b8bf\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\80a3686b33f4837c1ee9252c131f2da8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\80a3686b33f4837c1ee9252c131f2da8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\25a71872100927ab8acd31538fae36af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\25a71872100927ab8acd31538fae36af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\eb38e622e76dd3d4c631f2ccacd45ea3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\eb38e622e76dd3d4c631f2ccacd45ea3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\ad993d1cf23e580fbd31daaca389526a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\ad993d1cf23e580fbd31daaca389526a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\98d60fe06fbf0c91ee2998eeb45779be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\98d60fe06fbf0c91ee2998eeb45779be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\97a8444c796e1313c9b64562ffd938b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\97a8444c796e1313c9b64562ffd938b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\29e95cb9c3d250f2fb3a352ab46b4188\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\29e95cb9c3d250f2fb3a352ab46b4188\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\ee2994349ae54b153701a34ccf579890\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\ee2994349ae54b153701a34ccf579890\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\e795c11517cef51bbd80c1141ee8876a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\e795c11517cef51bbd80c1141ee8876a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\9a3a08d7453dfbbee13be55f72fb9cc4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\9a3a08d7453dfbbee13be55f72fb9cc4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\13c8844663dc864f696c559ad3cfb052\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\13c8844663dc864f696c559ad3cfb052\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\4de095548994c0bbfc0040d5bb2c71ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\4de095548994c0bbfc0040d5bb2c71ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\440549c68e3baba06ca2f95e6d1cbc17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\440549c68e3baba06ca2f95e6d1cbc17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\008039cc2fabd0523896be5e60381e58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\008039cc2fabd0523896be5e60381e58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\179812c8b4fe3d41c896a7be019f59e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\179812c8b4fe3d41c896a7be019f59e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\31eec4913f1986526085a882f82ca496\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\bdac6a6c385b21ddb08a93ace979016f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\bdac6a6c385b21ddb08a93ace979016f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\dd484add8d6eeed72cd8a2e8adcdba32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\dd484add8d6eeed72cd8a2e8adcdba32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\a97c811f4895becce9cb2fd05bae1ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\a97c811f4895becce9cb2fd05bae1ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\43ba8b1714a919d653e02e2a9f64176a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\43ba8b1714a919d653e02e2a9f64176a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\b8f136fb270e9213148feba028d41155\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\b8f136fb270e9213148feba028d41155\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\642d5980ce99fda0c17cd0818c8ca093\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\642d5980ce99fda0c17cd0818c8ca093\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\3aae4dbb35ec8d7c0da189f4e33ac52d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\3aae4dbb35ec8d7c0da189f4e33ac52d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\9483a0d85bc521a63be6c42355cebb9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\9483a0d85bc521a63be6c42355cebb9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\8b3d7932a1150aa860df558efa7904ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\8b3d7932a1150aa860df558efa7904ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\1063890784e9a312b09e4263e59b3957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\1063890784e9a312b09e4263e59b3957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\09d5602ef85f131fbb01a0cf327dfcc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MSI GS72\.gradle\caches\transforms-2\files-2.1\09d5602ef85f131fbb01a0cf327dfcc3\AndroidManifest.xml:20:5-44
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\src\main\AndroidManifest.xml
