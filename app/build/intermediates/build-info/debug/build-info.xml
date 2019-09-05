@@ -7,7 +7,7 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.4.2"
-    timestamp="1567666931932"
+    timestamp="1567667785251"
     token="-4051245612629416535"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -19,10 +19,10 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="225" />
+        duration="498" />
     <task
         name="verifier"
-        duration="55" />
+        duration="43" />
 
     <artifact
         location="D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -114,7 +114,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1567666931932"
+        timestamp="1567667785251"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\59160141\android-kotlin-fundamentals-starter-apps\DessertClicker-Starter\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
